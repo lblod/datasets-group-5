@@ -25,6 +25,9 @@ https://ebesluitvorming.gent.be/zittingen/22.0913.1602.1677/agendapunten/23.0413
 https://ebesluitvorming.gent.be/document/5dd7bd77937e557b26281662
 2020: https://ebesluitvorming.gent.be/zittingen/19.0507.5150.2811/agendapunten/19.1122.8136.2214
 
+Balen:
+https://raadpleeg-balen2.onlinesmartcities.be/zittingen/21.1021.6807.4686/agendapunten/21.1222.0513.4779
+
 LPDC https://productencatalogus-v3.vlaanderen.be/instantie/16048:
 ```
 <https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1c73ac13-5f66-430c-b4a5-771771338b51> <http://purl.org/dc/terms/isVersionOf> <https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012>;
