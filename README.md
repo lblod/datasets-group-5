@@ -3,10 +3,10 @@ Overview of relevant decisions and LPDC products
 
 ### repetitielokaal 'The Basement' (Lievegem)
 
-Retributieregelment:
+Retributieregelment (NOT PDF)
 https://lievegem-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/b620ab34-504e-4872-858c-e9e3ae05002f/agendapunten/df7efe79-e681-43a6-8280-44f00f5ed525
 
-Gebruikersreglement;
+Gebruikersreglement (NOT PDF)
 https://lievegem-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/b620ab34-504e-4872-858c-e9e3ae05002f/agendapunten/9e867ed1-1e47-4129-b42c-8746ffebca2e
 
 LPDC:
@@ -14,24 +14,22 @@ https://productencatalogus-v3.vlaanderen.be/instantie/50060
 
 ### Toelating voor ambulante activiteit op openbaar domein buiten de openbare markt
 
-Lokeren:
+Lokeren (PDF)
 https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/agendapunten/24.0306.8454.2487
 https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/agendapunten/24.0306.3259.0661
 https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/notulen
 
-Gent:
+Gent (PDF)
 Wijzigingsbesluit:
 https://ebesluitvorming.gent.be/zittingen/22.0913.1602.1677/agendapunten/23.0413.9099.6834
 https://ebesluitvorming.gent.be/document/5dd7bd77937e557b26281662
 2020: https://ebesluitvorming.gent.be/zittingen/19.0507.5150.2811/agendapunten/19.1122.8136.2214
 
-Balen:
-https://raadpleeg-balen2.onlinesmartcities.be/zittingen/21.1021.6807.4686/agendapunten/21.1222.0513.4779
-
-Tienen:
+Tienen (NOT PDF):
 https://tienen-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/08b9a3a8-608a-4541-ad2c-54ca6625f5dc/agendapunten/41594616-eb69-4d65-b673-bc87e6e97174
 
-LPDC https://productencatalogus-v3.vlaanderen.be/instantie/16048:
+LPDC record it should create: https://productencatalogus-v3.vlaanderen.be/instantie/16048
+
 ```
 <https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1c73ac13-5f66-430c-b4a5-771771338b51> <http://purl.org/dc/terms/isVersionOf> <https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012>;
     a <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#InstancePublicServiceSnapshot>;
