@@ -86,7 +86,7 @@ LPDC:
 OLD: https://productencatalogus-v3.vlaanderen.be/instantie/3129
 NEW: https://productencatalogus-v3.vlaanderen.be/instantie/46852
 
-https://ebesluitvorming.gent.be/zittingen/19.0912.7193.6895/agendapunten/20.0528.2467.5394
+https://ebesluitvorming.gent.be/zittingen/19.0912.7193.6895/agendapunten/20.0528.2467.5394 (PDF)
 
 ```
 <https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9a764206-5c3d-40f9-9135-e146d5c5ffa9> <http://purl.org/dc/terms/isVersionOf> <https://ipdc.tni-vlaanderen.be/id/instantie/c6492d01-1291-46b4-b8c5-fad40a97b4bd>;
@@ -117,6 +117,6 @@ _:bc_0_df_58_369 a <http://schema.org/WebSite>;
 
 https://productencatalogus-v3.vlaanderen.be/instantie/45344
 
-https://raadpleeg-turnhout.onlinesmartcities.be/zittingen/22.0119.0987.3665/agendapunten/22.0804.9023.4641
+https://raadpleeg-turnhout.onlinesmartcities.be/zittingen/22.0119.0987.3665/agendapunten/22.0804.9023.4641 (NOT PDF)
 
 
