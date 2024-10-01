@@ -28,6 +28,9 @@ https://ebesluitvorming.gent.be/document/5dd7bd77937e557b26281662
 Balen:
 https://raadpleeg-balen2.onlinesmartcities.be/zittingen/21.1021.6807.4686/agendapunten/21.1222.0513.4779
 
+Tienen:
+https://tienen-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/08b9a3a8-608a-4541-ad2c-54ca6625f5dc/agendapunten/41594616-eb69-4d65-b673-bc87e6e97174
+
 LPDC https://productencatalogus-v3.vlaanderen.be/instantie/16048:
 ```
 <https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/1c73ac13-5f66-430c-b4a5-771771338b51> <http://purl.org/dc/terms/isVersionOf> <https://ipdc.tni-vlaanderen.be/id/instantie/7a5d5ee4-57e4-4124-9b54-bbbf94bb7012>;
@@ -79,9 +82,43 @@ _:bc_0_df_58_766 a <http://schema.org/WebSite>;
     <http://www.w3.org/ns/shacl#order> 0.
 ```
 
-### Inname openbaar domein
+### Subsidie kunst
 
-LPDC: https://productencatalogus-v3.vlaanderen.be/instantie/45556
+LPDC:
+OLD: https://productencatalogus-v3.vlaanderen.be/instantie/3129
+NEW: https://productencatalogus-v3.vlaanderen.be/instantie/46852
 
+https://ebesluitvorming.gent.be/zittingen/19.0912.7193.6895/agendapunten/20.0528.2467.5394
+
+```
+<https://ipdc.tni-vlaanderen.be/id/instantiesnapshot/9a764206-5c3d-40f9-9135-e146d5c5ffa9> <http://purl.org/dc/terms/isVersionOf> <https://ipdc.tni-vlaanderen.be/id/instantie/c6492d01-1291-46b4-b8c5-fad40a97b4bd>;
+    a <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#InstancePublicServiceSnapshot>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2024-01-30T15:20:32.808988Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#competentAuthorityLevel> <https://productencatalogus.data.vlaanderen.be/id/concept/BevoegdBestuursniveau/Lokaal>;
+    <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#executingAuthorityLevel> <https://productencatalogus.data.vlaanderen.be/id/concept/UitvoerendBestuursniveau/Lokaal>;
+    <http://purl.org/dc/terms/title> "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent"@nl-BE-x-generated-informal, "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent"@nl-BE-x-formal, "Subsidie voor projecten in kunst, cultuur en cultureel erfgoed in Stad Gent"@nl;
+    <http://purl.org/dc/terms/description> "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>"@nl, "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>"@nl-BE-x-formal, "<p>De Stad Gent wenst door het subsidiëren van culturele en artistieke projecten impulsen te geven aan het stedelijk cultuurlandschap en kan daarom naast de structurele ondersteuning van cultuurspelers ook een subsidie verlenen aan culturele en artistieke projecten.</p>"@nl-BE-x-generated-informal;
+    <http://purl.org/dc/terms/type> <https://productencatalogus.data.vlaanderen.be/id/concept/Type/FinancieelVoordeel>;
+    <http://data.europa.eu/m8g/thematicArea> <https://productencatalogus.data.vlaanderen.be/id/concept/Thema/CultuurSportVrijeTijd>;
+    <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#targetAudience> <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Burger>, <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Vereniging>, <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Organisatie>;
+    <http://purl.org/dc/terms/spatial> <http://data.europa.eu/nuts/code/BE2>;
+    <http://data.europa.eu/m8g/hasCompetentAuthority> <https://data.vlaanderen.be/id/organisatie/OVO002067>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bc_0_df_58_369;
+    <http://schema.org/dateCreated> "2023-05-11T11:55:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://schema.org/dateModified> "2023-05-26T12:15:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://schema.org/productID> "3129";
+    <https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc#isArchived> false.
+
+_:bc_0_df_58_369 a <http://schema.org/WebSite>;
+    <http://purl.org/dc/terms/title> "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025"@nl, "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025"@nl-BE-x-informal, "Subsidiereglement Stad Gent voor de financiële ondersteuning van projecten in kunst, cultuur en cultureel erfgoed voor periode 2021-2025"@nl-BE-x-generated-formal;
+    <http://schema.org/url> "https://stad.gent/nl/reglementen/subsidiereglement-voor-de-financiele-ondersteuning-van-projecten-kunst-cultuur-en-cultureel-erfgoed";
+    <http://www.w3.org/ns/shacl#order> 0.
+```
+
+### Gevelrenovatie
+
+https://productencatalogus-v3.vlaanderen.be/instantie/45344
+
+https://raadpleeg-turnhout.onlinesmartcities.be/zittingen/22.0119.0987.3665/agendapunten/22.0804.9023.4641
 
 
