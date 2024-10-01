@@ -19,7 +19,11 @@ https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/agend
 https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/agendapunten/24.0306.3259.0661
 https://raadpleeg-lokeren.onlinesmartcities.be/zittingen/23.1122.6991.3292/notulen
 
-
+Gent:
+Wijzigingsbesluit:
+https://ebesluitvorming.gent.be/zittingen/22.0913.1602.1677/agendapunten/23.0413.9099.6834
+https://ebesluitvorming.gent.be/document/5dd7bd77937e557b26281662
+2020: https://ebesluitvorming.gent.be/zittingen/19.0507.5150.2811/agendapunten/19.1122.8136.2214
 
 LPDC https://productencatalogus-v3.vlaanderen.be/instantie/16048:
 ```
