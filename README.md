@@ -79,3 +79,9 @@ _:bc_0_df_58_766 a <http://schema.org/WebSite>;
     <http://www.w3.org/ns/shacl#order> 0.
 ```
 
+### Inname openbaar domein
+
+LPDC: https://productencatalogus-v3.vlaanderen.be/instantie/45556
+
+
+
